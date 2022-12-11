@@ -1,0 +1,43 @@
+.imgContainer{
+    width: 100%;
+    height:90vh;
+   
+}
+.banner{
+    position: relative;
+ 
+}
+.imgContainer img{
+    width: 100%;
+    height: 90vh;
+    object-fit: cover;
+  
+}
+.imgContainer h1{
+    
+    top: 100px;
+    left: 100px;
+}
+.bannerText{
+    position: absolute;
+    left: 45%;
+    right:0;
+    top: 30%;
+    color: #fff;
+}
+.login{
+   
+  
+}
+.login button{
+    padding: 10px 20px;
+    border: none;
+    gap: 10px;
+    margin: 5px;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+   
+     
+}
